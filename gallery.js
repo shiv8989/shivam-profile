@@ -10,6 +10,11 @@ const galleryItems = [
     "caption": "A conversation with the community"
   },
   {
+    "id": "vj-rajput",
+    "category": "Speaking & community",
+    "caption": "With Shri V. J. Rajput, IAS"
+  },
+  {
     "id": "auditorium-audience",
     "category": "Speaking & community",
     "caption": "Addressing an auditorium audience"
@@ -27,7 +32,7 @@ const galleryItems = [
   {
     "id": "seated-conversation",
     "category": "Speaking & community",
-    "caption": "A conversation by the window"
+    "caption": "With Rajendra Shah, Chairman and Whole-time Director of Harsha Engineers International Limited"
   },
   {
     "id": "saksham-memento",
@@ -57,7 +62,7 @@ const galleryItems = [
   {
     "id": "seated-visit",
     "category": "Speaking & community",
-    "caption": "A photo from a seated visit"
+    "caption": "With Rajendra Shah, Chairman and Whole-time Director of Harsha Engineers International Limited"
   },
   {
     "id": "lecture",
