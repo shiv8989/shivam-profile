@@ -150,11 +150,6 @@ const galleryItems = [
     "caption": "A moment from my early journey"
   },
   {
-    "id": "press1",
-    "category": "In the news",
-    "caption": "Dainik Bhaskar \u00b7 21 October 2022"
-  },
-  {
     "id": "press2",
     "category": "In the news",
     "caption": "Nai Dunia \u00b7 Speaking at Srijan 2022"
