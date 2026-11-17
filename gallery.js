@@ -75,11 +75,6 @@ const galleryItems = [
     "caption": "Meeting people outdoors"
   },
   {
-    "id": "seated-visit",
-    "category": "Speaking & community",
-    "caption": "With Rajendra Shah, Chairman and Whole-time Director of Harsha Engineers International Limited"
-  },
-  {
     "id": "lecture",
     "category": "Speaking & community",
     "caption": "Sharing knowledge with students"
