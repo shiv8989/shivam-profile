@@ -10,6 +10,21 @@ const galleryItems = [
     "caption": "A conversation with the community"
   },
   {
+    "id": "dubai-tandem",
+    "category": "Adventure",
+    "caption": "Tandem skydiving over Dubai"
+  },
+  {
+    "id": "teaching",
+    "category": "Speaking & community",
+    "caption": "Providing free training in the latest technologies, including big data tools like Hadoop"
+  },
+  {
+    "id": "bsnl-officer",
+    "category": "My journey",
+    "caption": "Serving as a Telecom Officer at BSNL"
+  },
+  {
     "id": "vj-rajput",
     "category": "Speaking & community",
     "caption": "With Shri V. J. Rajput, IAS"
@@ -68,11 +83,6 @@ const galleryItems = [
     "id": "lecture",
     "category": "Speaking & community",
     "caption": "Sharing knowledge with students"
-  },
-  {
-    "id": "teaching",
-    "category": "Speaking & community",
-    "caption": "Making learning accessible"
   },
   {
     "id": "welcome",
