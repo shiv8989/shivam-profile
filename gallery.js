@@ -7,7 +7,7 @@ const galleryItems = [
   {
     "id": "speaking",
     "category": "Speaking & community",
-    "caption": "A conversation with the community"
+    "caption": "A conversation with the Students"
   },
   {
     "id": "dubai-tandem",
@@ -17,7 +17,7 @@ const galleryItems = [
   {
     "id": "teaching",
     "category": "Speaking & community",
-    "caption": "Providing free training in the latest technologies, including big data tools like Hadoop"
+    "caption": "Providing free training in the latest technologies"
   },
   {
     "id": "bsnl-officer",
@@ -32,7 +32,7 @@ const galleryItems = [
   {
     "id": "auditorium-audience",
     "category": "Speaking & community",
-    "caption": "Addressing an auditorium audience"
+    "caption": "Addressing Student in Career Point University, Kota"
   },
   {
     "id": "motivational-stage",
@@ -42,7 +42,7 @@ const galleryItems = [
   {
     "id": "auditorium-conversation",
     "category": "Speaking & community",
-    "caption": "In conversation at the auditorium"
+    "caption": "In conversation with differently abled People"
   },
   {
     "id": "seated-conversation",
@@ -52,27 +52,27 @@ const galleryItems = [
   {
     "id": "saksham-memento",
     "category": "Speaking & community",
-    "caption": "Receiving a memento at Rashtriya Adhiveshan in Pune"
+    "caption": "At Rashtriya Adhiveshan in Pune"
   },
   {
     "id": "saksham-smile",
     "category": "Speaking & community",
-    "caption": "A smile at the Rashtriya Adhiveshan lectern"
+    "caption": "Addressing Differently abled community at Rashtriya Adhiveshan, Pune"
   },
   {
     "id": "saksham-address",
     "category": "Speaking & community",
-    "caption": "Speaking alongside a sign language interpreter"
+    "caption": "Addressing the Audience"
   },
   {
     "id": "saksham-presentation",
     "category": "Speaking & community",
-    "caption": "Sharing a family photo at Rashtriya Adhiveshan 2024"
+    "caption": "At Rashtriya Adhiveshan 2024"
   },
   {
     "id": "outdoor-conversation",
     "category": "Speaking & community",
-    "caption": "Meeting people outdoors"
+    "caption": "Meeting with Differently abled Community"
   },
   {
     "id": "lecture",
@@ -102,7 +102,7 @@ const galleryItems = [
   {
     "id": "pangong",
     "category": "Ladakh",
-    "caption": "The road to Pangong Lake"
+    "caption": "Riding on the Roads of Ladakh"
   },
   {
     "id": "ride",
@@ -122,7 +122,7 @@ const galleryItems = [
   {
     "id": "desert",
     "category": "Adventure",
-    "caption": "A quiet moment in the desert"
+    "caption": "Dubai Desert"
   },
   {
     "id": "childhood",
@@ -142,7 +142,7 @@ const galleryItems = [
   {
     "id": "early",
     "category": "My journey",
-    "caption": "A moment from my early journey"
+    "caption": "A moment from my early journey at BSNL"
   },
   {
     "id": "press2",
